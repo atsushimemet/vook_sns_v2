@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "instagram-insght-vook",
+  "private_key_id": "dd85f5af7f10838b68d983118b19f29ac7e3c6c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE/dBXqQotLpO6\nIYvVAGJe4pmLkjb+NFpGLZVvAHsAGQTa54ldu+c+TUVefw+du9AchG1uAVlzZYnL\n38SzRBG7G/TFzT8fu1teutrulWkgMYWX0Is/JgC5FB+hoRlDXrFX97SXlZZpX5fA\nB5NPmInE2rMECQYF1Ex8hqt0geNGZM1dApn2t2ZBZkpXcVfICXnU21tYgJ4Isv3A\nnKM4rKuDtBWarBfpfK/tdr/v+oSXEzYMhQk+crU7XOid03I+iFf6QUk6Ri+jk0kg\nCH55mZyetQBG6H2TH6RdM97/cCsh0fNodIvUXdy20H5TVAHOr5hPgURsFg9DepC6\nof0ZDD25AgMBAAECggEAEwt22QK+uR+HqLcVjcI7wHCn55Z7OphVIfPGPrUNLzU8\nAu3fmfBQqvVNf5VJLTa7KAaljb0TqNRoPg2kNrCeBjjtsTHmqGq0qrPl9qr7PuGK\nyOKgk7pY14vagwXQK3M8MgUAsKcFo6paQXZ6B3f32dBK/ljg/C9KNb/PU7Q7BNMO\nmQP4Spfr7nv3Q830WavBaUrXEUyGooEuxh6UoRZ2KPiZqMGGMkX5T2lCsNHAf1PN\nzOAJDiHP4i42aurof0JPUX9IdxMPG+BqdkjzA3gOd0nrTmkFynntKXae1ntEFyUM\nQK4YWA1TuIv7l6vQY3YU0z7jzzP2NsWiKHWKb9fgAQKBgQDliI/7/nj9ARDbysdI\nEhUM7cRFwXcRHBkDiF/14iCtLwUK1DdzFilXvOZB/VJTpMVI5xAksoVUmqIOaAPW\nzarh4eqpPXhYEMYxKnC2L9/TIvlotjpSrUFtKgOEyC0ydeDH9EUmNse4EuNVCY6R\n8U5XR+9oP3/hKFS4pHli3VD/kQKBgQDbtKrOgzmfS6ancphG/6XBYrdknVtUuJGF\nj53b5Z0nujqSel4PVrZumTAVdbW2uJhixoOFlx/hwmxIYwKKONUdYCcHz7t9wgMj\n+K/46uUFoYkQHhTJI/CnjD+IO2DtlZfSAqK/30v4cYOezA7O7KI2Ty1fe8mtrB+q\nQ78cmgWXqQKBgEHTn09qlHIimx4dkndF0Emr6q0Cpc3/W+EafEK8/hgMswp/AAP+\naA7keriUGMcqKvYUZhnQJNK1oiI1jFxPEWHEc5LjsR64eM5i2H43Tp5zmkmAcUuC\nqo/PC8FJ00R0b+mIUUh7T12n9RBPNFcAeDIpzCv+ggMlmN53NOS4ieExAoGAMrVS\nLvPOmtuFDWS/jLN4eFfmaAyBhd5Lh/4LuzMVwJOU7TXc+8FRvdkRZgKS/CdC1Jlo\nxa6JpzuObm6bqXdQiMUmfQEPDwl2XBkL1HGyhkgwME4hEgN/icwu5ax+xJcgQVJm\nac6J5D+e10nVqSCol8xSdpVFiRYPAOc99sX9wHECgYEAyq72Exbc5GgahXPnlHlt\n7UkF+E5txOwyiybQ6BoAIitMmgfC4o5azE/d1ULuFOlPx7ZEnKw2DQZJOkujvsVm\n67pwXTXk4enCNOwFqk4q5J5Jk65xAL0NskzTXsbU9FN8Ri2j6WU92nz2PhLv6bzC\nXbxM8dtj6zCly2fCFjD0cVE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "apicall-instagram@instagram-insght-vook.iam.gserviceaccount.com",
+  "client_id": "115413019207544043271",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apicall-instagram%40instagram-insght-vook.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

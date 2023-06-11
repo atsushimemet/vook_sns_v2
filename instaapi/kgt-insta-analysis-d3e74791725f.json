@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kgt-insta-analysis",
+  "private_key_id": "d3e74791725fe0432e7c81b15aee0814c5723788",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDX8+B1jpJ7LI+Z\nOhLdzlFP+MJBk4kXEaRCD82kJmQ26/37caHiwKcUSGZq2tDFFXuiRtinTwCSJPA4\nOImMcz/WhsdUJtNsx8xOqehGBbC/YWrInoHmu/gLgSY/w8f9YRDrDvjN8Fn5LCmA\n4kBNJctKhMeeWVy8N/M8kpBcevvs4gmSOZD5oY8EHop6zyPOY8gr7cyJmh9qqu4q\nZgJbekzUhEWl/D7v9FCdCW01ZP/+2k9KtQ00mOYzYZxAxbaxJ48VducGYJ7AQiJ8\n1vSkoxch33WLdQheEAMQpvdyObrUfOXhkT6rmeTrlvVYTRdMcKSEUa5wLr4ukMuU\nOyaiZJNXAgMBAAECggEAMlHigKILIeZ9Q4ATu1mC+vaFFVCyhgyXUMlr6o8DlQSi\ndv/AcBziEcjZDJcWRIY/+800WLAA+wzeaMtLyc1lF7DqK4Ksi1F3GvFebUqQJ9gk\nUMEWldRA9TVP21XceP8wOQWRFjOmU3hl52FRCGkBGMkd1pkOEdGbvQaN2u7RWx3W\n7AkYePMS2+ZqYn2fGW+x9z0lEMXT9NsUkPueOBqs+Oi1LIzi/susF2Ahhsa1Fa/J\naB9aBa/73/mZQLfHxqmpXw7rbY4dvYyX/boP5WMz/5fiB0rF5NssQJVQbGzdEc1b\nquzlvZPC6UVtazgTG2Fvw84qd/itwMhltZILDhANIQKBgQDx9nlolQjua1d5Pd5a\nNsasRLZVn3nQG2ynynkh7bMcrO79+PFX8OdWiSDFnixGgYhsR7MC/YcpLH5VhbQD\naaw/LivnXeLMylZkepdhqUHsY4s+c3D/Sla36CNdnfHeJBw952LQMnQRqbnI1Vou\n+aIAXq1Srgrr2k0PuRQMbEfbUQKBgQDkexx3r1qFSfuvI0q3ImNM+NEZgg7uJuAb\nBb/t9jy3w5NeFbb5PZoc+qzxkietmO6X3HSNDlD+2+oLiE7LzBfAV86E8G6+mqLp\nRVHE6e1BbaWThscLroC7D4sT0uJuyoWcyoMtmyt7swwmt5h+r+d7kxgTCOF1VSaK\nL3qTXJEKJwKBgQDqJKQJ8yaIaTFlrtwLmrQYogl7w+5B1zgHCuS7U2UfG63N8OfD\nPOjwkZQ4B786n0Cf36Y3/5Sa4GaEZfTz1H+NSCXOJ8lAeZCufP8ez4ZutUlarqWr\nNYnDP41xm1UhrPnzYYT6ichOC1swIF271W/SQcwhlTAWWdJ2o5fmCaZjcQKBgQCT\ntQMyXKqogKu1DZu/yPtpR3Hmi64bSAaZcZ4iuI2IP2eF64PenXSER4qGoXYFRFj6\n1AqFJjw2hvVHf1dxaP/x2NIqH0V4839eTvIN2y0Gn1vrg7YqVyXhyKqgpjS8azD1\nq/YiBa6WyamRXh+3xwBfYzitFZCryeCgdRFJMw6RAQKBgA0d9WtRD23Ut/qZRdva\nWqX32bo/Mmp+ohIANE4yC5y9gAlE/WLPYXQNHtMNJ5y1lRDvQ1TsU1JBXqQa62zO\nH5FBcT6oIhzqawILNOyeF3oig8dD76aFrD7JerbjSMPPK7mD/ma5ALBP700Xb2jr\ndFOkx2eBfol2/OX79KgTmn4J\n-----END PRIVATE KEY-----\n",
+  "client_email": "kgt-insta-anaysis@kgt-insta-analysis.iam.gserviceaccount.com",
+  "client_id": "104042387558309009893",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kgt-insta-anaysis%40kgt-insta-analysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
